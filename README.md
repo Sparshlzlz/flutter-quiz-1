@@ -1,8 +1,6 @@
 # flutter-quiz-1
 # A basic quiz app on flutter that asks a set of questions and gives back the result.
-![image](https://github.com/user-attachments/assets/aff9f6b2-e109-427d-8e00-243c6facd6ed)
-
-![image](https://github.com/user-attachments/assets/3d371f4e-6c35-47fd-af43-5b9804fe826d)
+![image](https://github.com/user-attachments/assets/aff9f6b2-e109-427d-8e00-243c6facd6ed)   ![image](https://github.com/user-attachments/assets/3d371f4e-6c35-47fd-af43-5b9804fe826d)
 
 # To run the app, Android Studio and flutter support must be installed on the computer. 
 # Create a flutter project template by: 
